@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **taydeprajyot@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nIAQCso2Ha2aJTADCw__p2ts4g78Gofw/view](https://drive.google.com/file/d/1nIAQCso2Ha2aJTADCw__p2ts4g78Gofw/view)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/16pPBUzOjeriJhVW-j4UxgDl2TRk6gmzr/view
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prajyot_tayde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajyot_tayde" height="30" width="40" /></a>
